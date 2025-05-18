@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|c:\\users\\admin\\source\\repos\\automationtests\\automationtests\\tests\\automationexercisetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\tests\\automationexercisetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|c:\\users\\admin\\source\\repos\\automationtests\\automationtests\\utils\\extentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\utils\\extentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|c:\\users\\admin\\source\\repos\\automationtests\\automationtests\\pages\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\pages\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|c:\\users\\admin\\source\\repos\\automationtests\\automationtests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|c:\\users\\admin\\source\\repos\\automationtests\\automationtests\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|c:\\users\\admin\\source\\repos\\automationtests\\automationtests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E85541-E696-4F07-A2BD-FC1B66A3DCF4}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutomationExerciseTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Tests\\AutomationExerciseTests.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Tests\\AutomationExerciseTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Tests\\AutomationExerciseTests.cs",
+              "RelativeToolTip": "AutomationTests\\Tests\\AutomationExerciseTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:26:43.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtentManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Utils\\ExtentManager.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Utils\\ExtentManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Utils\\ExtentManager.cs",
+              "RelativeToolTip": "AutomationTests\\Utils\\ExtentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:25:18.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\BasePage.cs",
+              "RelativeToolTip": "AutomationTests\\Pages\\BasePage.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:03:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\HomePage.cs",
+              "RelativeToolTip": "AutomationTests\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:03:13.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "AutomationTests\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:03:09.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\SignupPage.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Pages\\SignupPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AutomationTests\\AutomationTests\\Pages\\SignupPage.cs",
+              "RelativeToolTip": "AutomationTests\\Pages\\SignupPage.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAQwG0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:03:03.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
